@@ -156,7 +156,7 @@
             </ul>
           </div>
           <br>
-          <a href="https://github.com/muhammadowais03/cafeteria-system" target="_blank">
+          <a href="https://github.com/MuhammadOwais03/CafeteriaManagementSystem.git" target="_blank">
             <img src="https://img.shields.io/badge/View%20Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
           </a>
         </div>
@@ -175,7 +175,7 @@
             </ul>
           </div>
           <br>
-          <a href="https://github.com/muhammadowais03/social-media-app" target="_blank">
+          <a href="https://github.com/MuhammadOwais03/SocialMeidaSite.git" target="_blank">
             <img src="https://img.shields.io/badge/View%20Project-4ECDC4?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
           </a>
         </div>
@@ -194,7 +194,7 @@
             </ul>
           </div>
           <br>
-          <a href="https://github.com/muhammadowais03/cheque-sync" target="_blank">
+          <a href="https://github.com/USMAN-FAIZYAB-KHAN/ChequeSync.git" target="_blank">
             <img src="https://img.shields.io/badge/View%20Project-45B7D1?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
           </a>
         </div>
@@ -239,7 +239,7 @@
             </ul>
           </div>
           <br>
-          <a href="https://github.com/muhammadowais03/chat-app" target="_blank">
+          <a href="https://github.com/MuhammadOwais03/chatApp.git" target="_blank">
             <img src="https://img.shields.io/badge/View%20Project-4ECDC4?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
           </a>
         </div>
