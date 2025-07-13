@@ -68,12 +68,12 @@
 
 ### 🎨 Frontend Development
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,html,css,js,typescript,tailwind,bootstrap,sass" alt="Frontend skills" />
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,html,css,js,typescript,tailwind,bootstrap" alt="Frontend skills" />
 </div>
 
 ### ⚡ Backend Development
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://skillicons.dev/icons?i=django,nodejs,express,python,mongodb,mysql,postgresql,redis,graphql,flask" alt="Backend skills" />
+  <img src="https://skillicons.dev/icons?i=django,nodejs,express,python,mongodb,mysql,postgresql,redis,graphql,fastapi" alt="Backend skills" />
 </div>
 
 ### 🤖 AI/ML & Data Science
@@ -83,7 +83,7 @@
 
 ### 🔧 Tools & Technologies
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,postman,linux,figma,firebase,vercel" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux,figma,vercel" alt="Tools" />
 </div>
 
 </div>
